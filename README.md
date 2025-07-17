@@ -1,6 +1,6 @@
 # 🏠 Ejar Rental Platform App – (React)
 
-This is the customer-facing frontend for **Ejar Rental Platform**, a modern rental platform where users can rent out their belongings or borrow items from others.
+This is the user-facing frontend for **Ejar Rental Platform**, a modern rental platform where users can rent out their belongings or borrow items from others.
 
 This application is built using **React 19** and powered by **Vite**, with full integration to a Node.js backend and Angular-based admin dashboard.
 
@@ -68,7 +68,7 @@ This repository is a clean version extracted from the original team repository t
 
 ## 🔗 Part of a Rental Platform Project
 
-This customer website is part of a larger product called **Ejar Rental Platform**, which includes:
+This user website is part of a larger product called **Ejar Rental Platform**, which includes:
 
 - 🧑‍💼 **Admin Dashboard** → Angular
 - 🔧 **Backend API** → Node.js & Express RESTful API powering the entire platform
